@@ -1,10 +1,11 @@
 # IoSL WiSe 2022 - SNET: Internet of Services Lab (Project)
 
-**Contact and Info** \
+**Contact and Info**
+
 Patrick Herbke, p.herbke@tu-berlin.de \
 Max. 4 Students 
 
-**Project title** \
+**Project title**
 
 **Establishing trust in a decentralized network with verifiable credentials**
 
