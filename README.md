@@ -42,6 +42,9 @@ Knowledge of the following areas are beneficial:
 - ACDC (Authentic Chained Data Container) Task Force:
 https://wiki.trustoverip.org/display/HOME/ACDC+(Authentic+Chained+Data+Container)+Task+Force
 
+- Delegation Details
+https://github.com/hyperledger/aries-rfcs/blob/main/concepts/0103-indirect-identity-control/delegation-details.md
+
 # References
 <a id="1">[1]</a> 
 Perlman, R. (1999). An overview of PKI trust models. IEEE network, 13(6), 38-43.
