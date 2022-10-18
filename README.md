@@ -18,6 +18,7 @@ These certificates can be issued via different hierarchy levels, beginning with 
 
 In this project, students will implement a certificate chain, similar to X.509, into the Self-Sovereign Identity paradigm with verifiable credentials (VCs) [[3]](#3).
 Good examples and a more detailed description can be found here: https://github.com/hyperledger/aries-rfcs/blob/main/concepts/0104-chained-credentials/README.md
+and here https://github.com/hyperledger/aries-rfcs/blob/main/concepts/0103-indirect-identity-control/delegation-details.md 
 The implementation will utilize the Hyperledger Aries Cloud Agent - Python (ACA-Py)
 https://github.com/hyperledger/aries-cloudagent-python
 
