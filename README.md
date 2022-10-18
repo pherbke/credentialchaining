@@ -38,6 +38,10 @@ Knowledge of the following areas are beneficial:
 - First look into ACA-Py demos 
 (https://github.com/hyperledger/aries-cloudagent-python/tree/main/demo)
 
+# Further Links
+- ACDC (Authentic Chained Data Container) Task Force:
+https://wiki.trustoverip.org/display/HOME/ACDC+(Authentic+Chained+Data+Container)+Task+Force
+
 # References
 <a id="1">[1]</a> 
 Perlman, R. (1999). An overview of PKI trust models. IEEE network, 13(6), 38-43.
