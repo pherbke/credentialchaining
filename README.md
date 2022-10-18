@@ -17,9 +17,7 @@ These certificates can be issued via different hierarchy levels, beginning with 
 
 In this project, students will implement a certificate chain, similar to X.509, into the Self-Sovereign Identity paradigm with verifiable credentials (VCs) [[3]](#3).
 Good examples and a more detailed description can be found here: https://github.com/hyperledger/aries-rfcs/blob/main/concepts/0104-chained-credentials/README.md
-and here https://github.com/hyperledger/aries-rfcs/blob/main/concepts/0103-indirect-identity-control/delegation-details.md 
-The implementation will utilize the Hyperledger Aries Cloud Agent - Python (ACA-Py)
-https://github.com/hyperledger/aries-cloudagent-python
+
 
 The research questions is:
 - How to adapt certificate chains, such as in X.509, into SSI, a decentralized system?
@@ -35,10 +33,13 @@ Requirements:
 Knowledge of the following areas are beneficial:
 - Good understanding of Public-Key-Infrastructure and X.509
 - Basic knowledge of Self-Sovereign Identity
-- First look into ACA-Py demos 
+- First look into ACA-Py demos
 (https://github.com/hyperledger/aries-cloudagent-python/tree/main/demo)
 
 # Further Links
+- The implementation will utilize the Hyperledger Aries Cloud Agent - Python (ACA-Py)
+https://github.com/hyperledger/aries-cloudagent-python
+
 - ACDC (Authentic Chained Data Container) Task Force:
 https://wiki.trustoverip.org/display/HOME/ACDC+(Authentic+Chained+Data+Container)+Task+Force
 
