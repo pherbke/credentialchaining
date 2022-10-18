@@ -11,6 +11,7 @@ Patrick Herbke, p.herbke@tu-berlin.de
 In electronic communication, trust between network participants can be built using a Public-Key-Infrastructure (PKI). 
 PKI is a set of roles, policies, and procedures needed to create, manage, distribute, use, store and revoke 
 digital certificates and manage public-key encryption [[1]](#1).
+
 One prominent example of PKI is signed certificates issued by certified authorities (CA) for websites.
 A CA issues a signed certificate to a website that website visitors can prove. 
 These certificates can be issued via different hierarchy levels, beginning with a root CA [[2]](#2).
