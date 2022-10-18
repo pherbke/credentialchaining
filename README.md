@@ -2,8 +2,7 @@
 
 **Contact and Info**
 
-Patrick Herbke, p.herbke@tu-berlin.de \
-Max. 4 Students 
+Patrick Herbke, p.herbke@tu-berlin.de
 
 **Project title**
 
