@@ -1,6 +1,9 @@
 import requests
 import json
 import time
+#install everything mentioned here: https://github.com/hyperledger/aries-cloudagent-python/blob/main/demo/AliceWantsAJsonCredential.md
+#especially installation of aries-cloudagent-python in local is important + to run script IDE or python on terminal
+
 #start up FABER in a local GIT Terminal with - (Have docker installed)
 #ge --aip 20 --cred-type json-ldght.bcovrin.vonx.io ./run_demo faber --did-exchang
 
