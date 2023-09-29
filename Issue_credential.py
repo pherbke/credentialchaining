@@ -2,7 +2,7 @@ import requests
 import json
 import time
 #start up FABER in a local GIT Terminal with - (Have docker installed)
-#ge --aip 20 --cred-type json-ldght.bcovrin.vonx.io ./run_demo faber --did-exchang
+#LEDGER_URL=http://dev.greenlight.bcovrin.vonx.io ./run_demo faber --did-exchange --aip 20 --cred-type json-ld
 
 #start up alice in a local GIT Terminal with
 #LEDGER_URL=http://dev.greenlight.bcovrin.vonx.io ./run_demo alice
